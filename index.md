@@ -4,7 +4,7 @@ Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus 
 
 Unser Ziel ist die Förderung von Musik, Kunst und Kultur in Dalhausen und der Region.
 
-Ein großer Teil unseres Engagements gilt dem [T-Mania Open-Air Festival](t-mania.de).
+Ein großer Teil unseres Engagements gilt dem [T-Mania Open-Air Festival](http://t-mania.de).
 
 ## Anschrift und Kontakt
 
@@ -73,7 +73,6 @@ Hubertusweg 10
 ```
 
 ## Jahresbeiträge
-
 - 12 € bis 18 Jahre
 - 18 € ab 18 Jahre
 - 36 € Familienbeitrag (Mutter, Vater, Kinder bis 18 Jahre)
@@ -81,6 +80,5 @@ Hubertusweg 10
 Bankeinzug, 1. Beitrag sofort, danach jährlich im März
 
 ## Downloads
-
 - [Mitgliedsantrag](Mitgliedsantrag.pdf)
 - [Vereinssatzung](Vereinssatzung.pdf)

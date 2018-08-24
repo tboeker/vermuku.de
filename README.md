@@ -1,19 +1,20 @@
 ## Herzlich Willkommen
 
-Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
-Unser Ziel ist die Förderung von Musik, Kunst und Kultur in Dalhausen und der Region.
+Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.\
+Unser Ziel ist die Förderung von Musik, Kunst und Kultur in Dalhausen und der Region.\
 
 Ein großer Teil unseres Engagements gilt dem [T-Mania Open-Air Festival](t-mania.de).
 
 ## Anschrift und Kontakt
 
-Verein für Musik und Kultur e.V.
-Marco Behler
-Obere Haupstr. 203
-37688 Beverungen
-info@vermuku.de
+Verein für Musik und Kultur e.V.\
+Marco Behler\
+Obere Haupstr. 203\
+37688 Beverungen\
+info@vermuku.de\
 
 Steuernummer: 326/5910/4467
+
 USt-IdNr.: DE296886848
 
 Vereinslokal: Gasthaus Groll, Dalhausen

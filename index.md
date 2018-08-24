@@ -8,21 +8,19 @@ Ein großer Teil unseres Engagements gilt dem [T-Mania Open-Air Festival](t-mani
 
 ## Anschrift und Kontakt
 
+```
 Verein für Musik und Kultur e.V.
-
 Marco Behler
-
 Obere Haupstr. 203
-
 37688 Beverungen
 
 info@vermuku.de
 
 Steuernummer: 326/5910/4467
-
 USt-IdNr.: DE296886848
 
 Vereinslokal: Gasthaus Groll, Dalhausen
+```
 
 ## Vorstand
 

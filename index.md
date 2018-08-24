@@ -1,4 +1,4 @@
-## Herzlich Willkommen
+## Verein für Musik und Kultur
 
 Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
 

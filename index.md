@@ -25,42 +25,62 @@ Vereinslokal: Gasthaus Groll, Dalhausen
 ## Vorstand
 
 ### 1. Vorsitzender
+
+```
 Marco Behler
 Obere Hauptstr. 203
 37688 Beverungen
+```
 
 ### Schatzmeister
+
+```
 Toni Weber
 Siekstraße 3
 37697 Lauenförde
+```
 
 ### Schriftführer
+
+```
 Holger Dierkes
 Untere Hauptstraße 100
 37688 Beverungen
+```
 
 ### 1. stellv. Vorsitzender
+
+```
 Tobias Böker
 Untere Hauptstr. 120
 37688 Beverungen
+```
 
 ### 2. stellv. Vorsitzender
+
+```
 Sven Behler
 Soester Straße 60
 48155 Münster
+```
 
 ### 1. stellv. Schatzmeister
+
+```
 Rüdiger Gnutzmann
 Hubertusweg 10
 37688 Beverungen
+```
 
 ## Jahresbeiträge
-12 € bis 18 Jahre
-18 € ab 18 Jahre
-36 € Familienbeitrag (Mutter, Vater, Kinder bis 18 Jahre)
+
+- 12 € bis 18 Jahre
+- 18 € ab 18 Jahre
+- 36 € Familienbeitrag (Mutter, Vater, Kinder bis 18 Jahre)
+
 Bankeinzug, 1. Beitrag sofort, danach jährlich im März
 
 ## Downloads
 
-[Mitgliedsantrag](Mitgliedsantrag.pdf)
-[Vereinssatzung](Vereinssatzung.pdf)
+- [Mitgliedsantrag](Mitgliedsantrag.pdf)
+- [Vereinssatzung](Vereinssatzung.pdf)

@@ -1,6 +1,8 @@
 title: "Verein für Musik und Kultur Dalhausen"
 locale: "de-DE"
 remote_theme: "mmistakes/minimal-mistakes"
+url: https://tboeker.github.io
+baseurl: vermuku.de
 
 include:
   - _pages

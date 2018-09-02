@@ -4,6 +4,8 @@ title: Verein für Musik und Kultur Dalhausen
 type: page
 ---
 
+![Logo](/assets/images/logo_vermuku.jpg)
+
 Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
 
 Unser Ziel ist die Förderung von Musik, Kunst und Kultur in Dalhausen und der Region.

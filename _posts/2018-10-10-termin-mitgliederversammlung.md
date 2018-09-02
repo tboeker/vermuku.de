@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Termin Mitgliederversammlung 2019"
 ---
 

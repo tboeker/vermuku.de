@@ -1,7 +1,7 @@
 main:
   - title: "Verein"
-    url: /_pages/verein
+    url: /verein
   - title: "Impressum"
-    url: /_pages/impressum
+    url: /impressum
   - title: "Datenschutz"
-    url: /_pages/datenschutz
+    url: /datenschutz

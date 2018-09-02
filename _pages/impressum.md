@@ -1,4 +1,5 @@
 ---
+permalink: /impressum/
 title: Impressum
 type: page
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /verein/
 title: Verein für Musik und Kultur Dalhausen
 type: page
 ---

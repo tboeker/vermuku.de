@@ -1,5 +1,5 @@
 ---
-title: vermuku
+title: Verein
 subtitle: Verein für Musik und Kultur Dalhausen
 ---
 

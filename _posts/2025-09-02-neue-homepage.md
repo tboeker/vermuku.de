@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Neue Homepage"
+title:  "Neue Homepage 8"
 ---
 
 Liebe Freunde,

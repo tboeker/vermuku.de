@@ -2,12 +2,13 @@ title: "Verein für Musik und Kultur Dalhausen"
 locale: "de"
 remote_theme: "mmistakes/minimal-mistakes"
 
+include: ["_pages"]
 
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: false
@@ -15,10 +16,3 @@ defaults:
       comments: false
       share: false
       related: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false

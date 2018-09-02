@@ -1,6 +1,7 @@
 ---
 title: Verein
 subtitle: Verein für Musik und Kultur Dalhausen
+type: page
 ---
 
 ## Verein für Musik und Kultur

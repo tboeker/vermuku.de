@@ -1,6 +1,4 @@
 main:
-  - title: "Aktuelles"
-    url: /docs/quick-start-guide/
   - title: "Verein"
     url: /_pages/verein
   - title: "Impressum"

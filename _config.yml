@@ -6,7 +6,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -15,7 +15,6 @@ defaults:
       comments: false
       share: false
       related: false
-
   # _pages
   - scope:
       path: "_pages"

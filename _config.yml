@@ -3,6 +3,7 @@ locale: "de-DE"
 remote_theme: "mmistakes/minimal-mistakes"
 url: https://tboeker.github.io
 baseurl: vermuku.de
+repository: "tboeker/vermuku.de"
 
 include:
   - _pages

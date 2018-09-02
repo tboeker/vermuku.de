@@ -89,5 +89,5 @@ Hubertusweg 10
 Bankeinzug, 1. Beitrag sofort, danach jährlich im März
 
 ## Downloads
-- [Mitgliedsantrag](/assets/downloads/Mitgliedsantrag.pdf)
+- [Mitgliedsantrag]( {{ site.url }}{{ site.baseurl }}/downloads/Mitgliedsantrag.pdf)
 - [Vereinssatzung](/assets/downloads/Vereinssatzung.pdf)

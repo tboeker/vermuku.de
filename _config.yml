@@ -1,4 +1,7 @@
-title: "Verein für Musik und Kultur Dalhausen"
+# title: "Verein für Musik und Kultur Dalhausen"
+title: "VERMUKU"
+description: "Verein für Musik und Kultur Dalhausen"
+
 locale: "de-DE"
 remote_theme: "mmistakes/minimal-mistakes"
 url: "https://tboeker.github.io"

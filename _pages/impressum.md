@@ -3,7 +3,6 @@ title: Impressum
 type: page
 ---
 
-# Impressum
 gemäß § 5 TMG:
 
 Verein für Musik und Kultur e.V.

@@ -5,6 +5,8 @@ url: "https://tboeker.github.io"
 baseurl: "/vermuku.de"
 repository: "tboeker/vermuku.de"
 
+teaser: /assets/images/logo_vermuku.png
+
 include:
   - _pages
 

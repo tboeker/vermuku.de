@@ -1,3 +1,17 @@
 title: "Verein für Musik und Kultur Dalhausen"
 locale: "de"
 remote_theme: "mmistakes/minimal-mistakes"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false

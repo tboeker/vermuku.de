@@ -1,0 +1,9 @@
+main:
+  - title: "Aktuelles"
+    url: /docs/quick-start-guide/
+  - title: "Verein"
+    url: /year-archive/
+  - title: "Impressum"
+    url: /categories/
+  - title: "Datenschutz"
+    url: /tags/

@@ -4,7 +4,7 @@ title: Verein für Musik und Kultur Dalhausen
 type: page
 ---
 
-![Logo](/assets/images/logo_vermuku.png)
+![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png)
 
 {{ site.baseurl }}
 {{ site.url }}
@@ -89,5 +89,5 @@ Hubertusweg 10
 Bankeinzug, 1. Beitrag sofort, danach jährlich im März
 
 ## Downloads
-- [Mitgliedsantrag]( {{ site.url }}{{ site.baseurl }}/downloads/Mitgliedsantrag.pdf)
-- [Vereinssatzung](/assets/downloads/Vereinssatzung.pdf)
+- [Mitgliedsantrag]({{site.url}}{{site.baseurl}}/assets/downloads/Mitgliedsantrag.pdf)
+- [Vereinssatzung]({{site.url}}{{site.baseurl}}/assets/downloads/Vereinssatzung.pdf)

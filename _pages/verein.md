@@ -83,4 +83,4 @@ Bankeinzug, 1. Beitrag sofort, danach jährlich im März
 
 ## Downloads
 - [Mitgliedsantrag]( {{ '/assets/downloads/Mitgliedsantrag.pdf' | relative_url }} )
-- [Vereinssatzung]({{site.url}}{{site.baseurl}}/assets/downloads/Vereinssatzung.pdf)
+- [Vereinssatzung]( {{ '/assets/downloads/Vereinssatzung.pdf' | relative_url }} )

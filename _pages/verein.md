@@ -6,11 +6,7 @@ type: page
 
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->
 
-Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
 
-Unser Ziel ist die Förderung von Musik, Kunst und Kultur in Dalhausen und der Region.
-
-Ein großer Teil unseres Engagements gilt dem [T-Mania Open-Air Festival](http://t-mania.de).
 
 ## Anschrift und Kontakt
 

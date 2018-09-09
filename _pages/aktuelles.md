@@ -1,5 +1,5 @@
 ---
 title: "Aktuelles"
-layout: posts
+layout: archive
 permalink: /aktuelles/
 ---

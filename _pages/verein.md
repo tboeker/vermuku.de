@@ -40,8 +40,8 @@ Obere Hauptstr. 203
 
 ```
 Toni Weber
-Siekstraße 3
-37697 Lauenförde
+Zum Eichhagen 19c
+37688 Beverungen
 ```
 
 ### Schriftführer
@@ -64,8 +64,8 @@ Untere Hauptstr. 120
 
 ```
 Sven Behler
-Soester Straße 60
-48155 Münster
+Philippistr. 13
+48149 Münster
 ```
 
 ### 1. stellv. Schatzmeister

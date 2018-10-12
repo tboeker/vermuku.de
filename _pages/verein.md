@@ -3,7 +3,7 @@ permalink: /verein/
 title: Verein für Musik und Kultur Dalhausen
 type: page
 header:
-  image: /assets/images/header1.jpeg
+  image: /assets/images/header1.jpg
 ---
 
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->

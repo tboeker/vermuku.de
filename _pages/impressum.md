@@ -2,6 +2,8 @@
 permalink: /impressum/
 title: Impressum
 type: page
+header:
+  image: /assets/images/header4.jpg
 ---
 
 gemäß § 5 TMG:

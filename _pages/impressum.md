@@ -13,7 +13,7 @@ Tobias Böker
 Untere Hauptstr. 120
 37688 Beverungen
 
-E-Mail: info@t-mania.de
+E-Mail: info@vermuku.de
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 

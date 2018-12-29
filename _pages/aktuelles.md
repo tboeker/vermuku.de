@@ -4,6 +4,7 @@ layout: collection
 permalink: /aktuelles/
 collection: aktuelles
 author_profile: false
+sort_order: reverse
 # entries_layout: grid
 ---
 

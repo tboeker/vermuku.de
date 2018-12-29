@@ -37,7 +37,7 @@ include:
 defaults:
   # _posts
   - scope:
-      path: "aktuelles"
+      path: ""
       type: posts
     values:
       layout: single
@@ -56,7 +56,7 @@ defaults:
 
 footer:
   links:
-    - label: "Impressum1"
+    - label: "Impressum2"
       url: "impressum"
     - label: "Datenschutz"
       url: "datenschutz"

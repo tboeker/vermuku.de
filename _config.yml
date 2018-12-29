@@ -73,7 +73,7 @@ defaults:
 
 footer:
   links:
-    - label: "Impressum"
+    - label: "Impressum1"
       url: "/impressum"
     - label: "Datenschutz"
       url: "/datenschutz"

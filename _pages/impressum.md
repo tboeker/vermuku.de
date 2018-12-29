@@ -6,8 +6,6 @@ header:
   image: /assets/images/header4.jpg
 ---
 
-<h1>Impressum</h1>
-
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p>Verein f&uuml;r Musik und Kultur Dalhausen<br />
 Untere Hauptstr. 120<br />

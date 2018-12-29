@@ -1,12 +1,16 @@
 ---
 title: "Aktuelles"
-layout: home
-author_profile: false
-paginate: true
+layout: collection
 permalink: /aktuelles/
+collection: posts
+author_profile: false
+entries_layout: grid
+classes: wide
+---
+
+
 <!-- header:
   image: /assets/images/header2.jpg -->
----
 
 <!-- {{ content }} -->
 

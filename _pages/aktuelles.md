@@ -1,6 +1,6 @@
 ---
 title: "Aktuelles"
-layout: posts
+layout: collection
 permalink: /aktuelles/
 collection: aktuelles
 author_profile: false

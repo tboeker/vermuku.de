@@ -1,6 +1,6 @@
 main:
-  # - title: "Aktuelles"
-  #   url: /aktuelles/
+  - title: "Aktuelles"
+    url: /aktuelles/
   - title: "Verein"
     url: /verein/
   # - title: "Impressum"

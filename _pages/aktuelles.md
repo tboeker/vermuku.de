@@ -2,12 +2,13 @@
 title: "Aktuelles"
 layout: collection
 permalink: /aktuelles/
-collection: posts
+collection: aktuelles
 author_profile: false
 entries_layout: grid
 classes: wide
 ---
 
+Hier findest Die aktuelle Neuigkeiten
 
 <!-- header:
   image: /assets/images/header2.jpg -->

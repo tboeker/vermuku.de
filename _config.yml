@@ -34,6 +34,12 @@ whitelist:
 include:
   - _pages
 
+# Collections
+collections:
+  aktuelles:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -53,6 +59,17 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _aktuelles
+  - scope:
+      path: ""
+      type: aktuelles
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      comment: false
+      related: false
 
 footer:
   links:

@@ -5,10 +5,9 @@ permalink: /aktuelles/
 collection: aktuelles
 author_profile: false
 entries_layout: grid
-classes: wide
 ---
 
-Hier findest Die aktuelle Neuigkeiten
+Hier findest Die aktuellen Neuigkeiten
 
 <!-- header:
   image: /assets/images/header2.jpg -->

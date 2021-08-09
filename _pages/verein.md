@@ -40,7 +40,7 @@ Obere Hauptstr. 203
 
 ```
 Toni Weber
-Zum Eichhagen 19c
+Hermannstr. 95
 37688 Beverungen
 ```
 

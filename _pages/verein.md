@@ -48,7 +48,7 @@ Hermannstr. 95
 
 ```
 Holger Dierkes
-Untere Hauptstraße 100
+Untere Hauptstr. 100
 37688 Beverungen
 ```
 

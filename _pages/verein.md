@@ -15,7 +15,7 @@ header:
 ```
 Verein für Musik und Kultur e.V.
 Marco Behler
-Obere Haupstr. 203
+Obere Hauptstr. 203
 37688 Beverungen
 
 info@vermuku.de
@@ -23,7 +23,9 @@ info@vermuku.de
 Steuernummer: 326/5910/4467
 USt-IdNr.: DE296886848
 
-Vereinslokal: Gasthaus Groll, Dalhausen
+Vereinsregister 2892
+Amtsgericht Paderborn
+
 ```
 
 ## Vorstand

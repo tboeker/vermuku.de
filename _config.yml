@@ -75,5 +75,7 @@ footer:
   links:
     - label: "Impressum"
       url: "/impressum"
+      icon: "fab fa-paragraph"
     - label: "Datenschutz"
       url: "/datenschutz"
+      icon: "fab fa-shield"

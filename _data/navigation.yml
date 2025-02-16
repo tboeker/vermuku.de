@@ -1,4 +1,6 @@
 main:
+  - title: "Newsletter"
+    url: /newsletter/  
   - title: "Aktuelles"
     url: /aktuelles/
   - title: "Verein"

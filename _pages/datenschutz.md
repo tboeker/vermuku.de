@@ -1,6 +1,6 @@
 ---
 permalink: /datenschutz/
-title: Datenschutzerklärung
+title: DATENSCHUTZERKLÄRUNG
 type: page
 header:
   image: /assets/images/header3.jpg

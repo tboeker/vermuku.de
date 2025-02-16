@@ -1,6 +1,6 @@
 ---
 permalink: /newsletter/
-title: Newsletter
+title: NEWSLETTER
 type: page
 header:
   image: /assets/images/header4.jpg

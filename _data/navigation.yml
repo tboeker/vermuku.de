@@ -1,7 +1,7 @@
 main:
-  - title: "Newsletter"
+  - title: "NEWSLETTER"
     url: /newsletter/  
-  - title: "Aktuelles"
+  - title: "AKTUELLES"
     url: /aktuelles/
-  - title: "Verein"
+  - title: "VEREIN"
     url: /verein/

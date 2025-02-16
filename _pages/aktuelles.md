@@ -1,5 +1,5 @@
 ---
-title: "Aktuelles"
+title: "AKTUELLES"
 layout: collection
 permalink: /aktuelles/
 collection: aktuelles

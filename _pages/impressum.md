@@ -1,6 +1,6 @@
 ---
 permalink: /impressum/
-title: Impressum
+title: IMPRESSUM
 type: page
 header:
   image: /assets/images/header4.jpg

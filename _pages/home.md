@@ -5,8 +5,7 @@ header:
   image: /assets/images/header1.jpg
 ---
 
-![joeastray]( {{'/assets/misc/would-2026-05-10.jpg'|relative_url}} ){:class="img-responsive"}
-
+[![WOULD](/assets/misc/would-2026-05-10.jpg){: .center-image }](/aktuelles/2026-04-12-konzert-05-10/)
 
 Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
 

@@ -5,7 +5,9 @@ header:
   image: /assets/images/header1.jpg
 ---
 
-Herzlich Willkommen auf der Homepage des Vereins für Musik und Kultur e.V. aus Dalhausen.
+# HERZLICH WILLKOMMEN
+
+dies ist die Homepage vom Verein für Musik und Kultur e.V. aus Dalhausen.
 
 # NEWSLETTER
 

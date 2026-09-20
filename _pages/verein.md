@@ -8,7 +8,10 @@ header:
 
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->
 
+# Mitglieds-Antrag
 
+[Mitgliedsantrag Online Formular](https://eu.forms.app/vermuku/mitgliedsantrag)
+[Mitgliedsantrag PDF]( {{ '/assets/downloads/Mitgliedsantrag.pdf' | relative_url }} )
 
 ## Anschrift und Kontakt
 
